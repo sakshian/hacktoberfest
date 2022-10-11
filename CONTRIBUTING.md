@@ -1343,6 +1343,12 @@
 - Bio: FULL Stack Developer
 - GitHub: [Manav Sharma](https://github.com/vanam30)
 
+#### Name: [Sakshi Kanwar](https://github.com/sakshian)
+
+- Place: Chandigarh, India
+- Bio: Software Developer
+- Github: [Sakshi Kanwar](https://github.com/sakshian)
+
 #### Name: [Vaibhav Asawale](https://github.com/amitbatra31)
 
 - Place: Pune, India
