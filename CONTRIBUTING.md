@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Sakshi Kanwar](https://github.com/sakshian)
+
+- Place: Chandigarh,India
+- Bio: Student at VIT University
+- GitHub: [Sakshian](https://github.com/sakshian)
